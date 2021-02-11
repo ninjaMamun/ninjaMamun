@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact **I love to ride motorcycles a lot!**
 
-[![Spotify](https://novatorem-sable-phi.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/1e26oywy950284bo54nq2ehdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahriyarmamun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahriyarmamun" height="30" width="40" /></a>
