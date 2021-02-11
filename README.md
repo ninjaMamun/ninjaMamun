@@ -5,13 +5,15 @@
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 👨‍💻 All of my projects are available at [shahriyar.me](shahriyar.me)
+<!-- - 👨‍💻 All of my projects are available at [shahriyar.me](shahriyar.me) -->
 
 - 💬 Ask me about **Js, React or Motorcycles 😜**
 
 - 📫 How to reach me **shahriyar.m.mamun@gmail.com**
 
 - ⚡ Fun fact **I love to ride motorcycles a lot!**
+
+[![Spotify](https://novatorem-sable-phi.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/1e26oywy950284bo54nq2ehdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
