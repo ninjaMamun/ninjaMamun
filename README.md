@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [shahriyar.me](shahriyar.me) -->
 
-- 💬 Ask me about **Js, React or Motorcycles 😜**
+- 💬 Ask me about **PHP, Symfony, Js, React or Motorcycles 😜**
 
 - 📫 How to reach me **shahriyar.m.mamun@gmail.com**
 
