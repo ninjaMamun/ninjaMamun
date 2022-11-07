@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **Symfony Projects**
 
 <!-- - 👨‍💻 All of my projects are available at [shahriyar.me](shahriyar.me) -->
 
